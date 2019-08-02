@@ -69,7 +69,9 @@ def reduce_to_all_true(source_array)
      return false
     end 
   i +=1 
+  
  end 
+ return true 
 end 
   
   
